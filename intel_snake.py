@@ -114,7 +114,6 @@ def main(start_pos):
         del open_set[str(test_node.current_pos)]
 
 
-path = main(START)
 
 # initiate pygame module--- required
 pygame.init()
